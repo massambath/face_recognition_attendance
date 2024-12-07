@@ -1,5 +1,5 @@
 # face_recognition_attendance
-This is a simple Python-based face recognition system that tracks student attendance and records the time of arrival. The project uses **Scikit-Learn** and **OpenCV**.
+This is a simple Python-based face recognition system that tracks student attendance and records the time of arrival. The project uses **Dlib** and **OpenCV**.
 
 ## Features
 - Detect student faces and identify them.
