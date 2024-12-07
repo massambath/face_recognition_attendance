@@ -1,0 +1,5 @@
+Fiche de présence pour le 20/11/2024
+
+mass est présent(e).
+lionel est en retard de 2.50 minutes.
+...
